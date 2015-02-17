@@ -1,4 +1,4 @@
-This is the original implementation of the RBEM (Rule-Based Emission Model) algorithm for sentiment analysis. Supports polarity detection and emotion detection (based on Plutchik's wheel of emotions) for multiple languages (currently: English, Dutch and German), with a focus on short texts. For more info, see the papers below.
+This is the original implementation of the RBEM (Rule-Based Emission Model) algorithm for sentiment analysis. Supports polarity detection and for multiple languages (currently: English, Dutch and German), with a focus on short texts. For more info, see the papers below.
 
 Cite:
 
